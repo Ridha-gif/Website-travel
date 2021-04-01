@@ -1,0 +1,168 @@
+#pos {
+    color: lightblue;
+    font-family: fantasy;
+    margin-top: 30px;
+    font-size: 21px;
+}
+
+#Mainimage {
+
+    text-align: center;
+}
+
+#Asd {
+    height: 490px;
+    width: 970px;
+    border-radius: 60px;
+
+}
+h5
+{
+    color:cyan;
+    font-size: 22px;
+}
+a{
+    color: cyan;
+}
+#author {
+    background-color: cornsilk;
+    height:570px;
+   
+    margin-top: 40px;
+    text-align: center;
+}
+
+#ridhaan {
+    height: 210px;
+    width: 200px;
+    border-radius: 100px;
+    margin-left: 60px;
+    margin-right:150px;
+}
+
+h3 {
+    font-family: 'Playfair Display', serif;
+    margin-left: 60px;
+    margin-bottom: 23px;
+    text-align: left;
+}
+
+h4 {
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+
+    margin-left: 60px;
+    margin-bottom:29px;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: -130px;
+    margin-left: 40px;
+}
+#button{
+    height:160px;
+    width:165px;
+    border-radius:100px;
+    color:white;
+    background:linear-gradient(#fc4768 0%,#d4f9fa 100%);
+    text-align: center; 
+    margin-top:-70px;
+    margin-left: 50px;
+    margin-bottom:15px;
+    
+}
+#color{
+    text-align: center;
+}
+#para{
+    color:black;
+    font-family: 'Cormorant Unicase', serif;
+    padding-right:20%;
+    padding-left: 20%;
+    font-size:20px;
+    margin-left: 40px;
+}
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+    margin-bottom:30px;
+}
+h4{
+    font-size:22px;
+}
+#lol{
+    height:200px;
+    width:360px;
+}
+#red{
+    background-color: red;
+    font-language-override: nt-size:22px;
+    
+}
+b{
+    color:black;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    width:450px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+#polkj{
+    text-align: center;
+    shape-margin: 30px;
+}
+.environment_li {
+    margin-top: 13px;
+    margin-bottom: 20px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+#pop{
+    width:1410px;
+    height:700px;
+}
+body{
+    text-align: center;
+}
+h2{
+    text-align:left;
+}
+
+ 
